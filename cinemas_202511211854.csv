@@ -1,0 +1,51 @@
+"cinema_id","name","address","city","phone","screens","features","hours","image_url"
+1,CGV Vincom Center,"72 Lê Thánh Tôn, Quận 1",TP. Hồ Chí Minh,(028) 3827 1717,8,"{IMAX,4DX,Premium}","8:00 - 24:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+2,CGV Landmark 81,"720A Điện Biên Phủ, Bình Thạnh",TP. Hồ Chí Minh,(028) 6272 1515,12,"{IMAX,4DX,ScreenX}","8:00 - 24:00",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+3,CGV Aeon Mall,"30 Bờ Bao Tân Thắng, Tân Phú",TP. Hồ Chí Minh,(028) 3815 6290,10,"{4DX,""Dolby Atmos""}","9:00 - 23:30",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+4,CGV Crescent Mall,"101 Tôn Dật Tiên, Quận 7",TP. Hồ Chí Minh,(028) 5411 7788,6,"{Premium,""Dolby Atmos""}","8:30 - 23:00",https://images.unsplash.com/photo-1667858329757-95becd82346e
+5,CGV Saigon Center,"65 Lê Lợi, Quận 1",TP. Hồ Chí Minh,(028) 3822 4440,7,"{Premium,""Dolby Atmos""}","9:00 - 23:30",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+6,CGV Parkson Hùng Vương,"126 Hồng Bàng, Quận 5",TP. Hồ Chí Minh,(028) 3835 7274,5,"{""Tiêu Chuẩn"",Premium}","8:30 - 23:00",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+7,CGV Vincom Bà Triệu,"191 Bà Triệu, Hai Bà Trưng",Hà Nội,(024) 3974 3333,9,"{IMAX,Premium,""Dolby Atmos""}","8:00 - 24:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+8,CGV Aeon Long Biên,"27 Cổ Linh, Long Biên",Hà Nội,(024) 3877 7200,8,"{4DX,Premium}","9:00 - 23:30",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+9,CGV Vincom Mega Mall,"458 Minh Khai, Hai Bà Trưng",Hà Nội,(024) 3974 3344,10,"{IMAX,4DX,Premium}","8:00 - 24:00",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+10,CGV Royal City,"72A Nguyễn Trãi, Thanh Xuân",Hà Nội,(024) 3974 3888,11,"{IMAX,Premium,""Dolby Atmos""}","8:00 - 23:30",https://images.unsplash.com/photo-1667858329757-95becd82346e
+11,CGV Vincom Đà Nẵng,"910A Ngô Quyền, Sơn Trà",Đà Nẵng,(0236) 3788 999,7,"{Premium,""Dolby Atmos""}","9:00 - 23:30",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+12,CGV Lotte Mart,"6 Nại Nam, Hải Châu",Đà Nẵng,(0236) 3566 777,6,"{4DX,Premium}","8:30 - 23:00",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+13,CGV Vincom Xuân Khánh,"209 Đường 30/4, Ninh Kiều",Cần Thơ,(0292) 3766 888,6,"{Premium,""Dolby Atmos""}","9:00 - 23:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+14,CGV Sense City,"01 Ngô Quyền, Ninh Kiều",Cần Thơ,(0292) 3822 333,5,{Premium},"8:30 - 22:30",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+15,CGV Vincom Plaza,"Lê Thánh Tông, Hồng Bàng",Hải Phòng,(0225) 3123 456,7,"{Premium,""Dolby Atmos""}","9:00 - 23:30",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+16,CGV Aeon Mall Hải Phòng,"Số 10, Lê Chân",Hải Phòng,(0225) 3234 567,8,"{4DX,Premium}","8:30 - 23:00",https://images.unsplash.com/photo-1667858329757-95becd82346e
+17,CGV Vincom Hải Phòng,"Trần Phú, Ngô Quyền",Hải Phòng,(0225) 3345 678,6,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+18,CGV Bien Hoa,"Trung Tâm, Biên Hòa",Biên Hòa,(0251) 3888 999,6,"{Premium,""Dolby Atmos""}","9:00 - 23:00",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+19,CGV Vincom Biên Hòa,"Quốc Lộ 1K, Biên Hòa",Biên Hòa,(0251) 3777 888,7,"{4DX,Premium}","8:30 - 23:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+20,CGV Nha Trang Center,"Trung Tâm, Nha Trang",Nha Trang,(0258) 3888 777,5,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+21,CGV Vincom Nha Trang,"Trần Phú, Nha Trang",Nha Trang,(0258) 3777 666,6,"{Premium,""Dolby Atmos""}","8:30 - 23:00",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+22,CGV Vincom Huế,"Lê Duẩn, Huế",Huế,(0234) 3888 555,5,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1667858329757-95becd82346e
+23,CGV Big C Huế,"Trung Tâm, Huế",Huế,(0234) 3777 444,4,"{""Tiêu Chuẩn""}","8:30 - 22:30",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+24,CGV Vũng Tàu,"Trần Hưng Đạo, Vũng Tàu",Vũng Tàu,(0254) 3888 333,5,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+25,CGV Imperial Plaza,"Trung Tâm, Vũng Tàu",Vũng Tàu,(0254) 3777 222,6,"{Premium,""Dolby Atmos""}","8:30 - 23:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+26,CGV Thủ Đức,"Võ Văn Ngân, Thủ Đức",Thủ Đức,(028) 3888 111,6,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+27,CGV Vincom Thủ Đức,"Quốc Lộ 13, Thủ Đức",Thủ Đức,(028) 3777 000,7,"{4DX,Premium}","8:30 - 23:00",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+28,CGV Quy Nhơn,"Lê Hồng Phong, Quy Nhơn",Quy Nhơn,(0256) 3888 999,5,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1667858329757-95becd82346e
+29,CGV Buôn Ma Thuột,"Trung Tâm, Buôn Ma Thuột",Buôn Ma Thuột,(0262) 3888 888,4,{Premium},"9:00 - 22:30",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+30,CGV Vinh,"Quang Trung, Vinh",Vinh,(0238) 3888 777,5,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+31,CGV Vincom Vinh,"Lê Lợi, Vinh",Vinh,(0238) 3777 666,6,"{Premium,""Dolby Atmos""}","8:30 - 23:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+32,CGV Bắc Ninh,"Trung Tâm, Bắc Ninh",Bắc Ninh,(0222) 3888 555,5,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+33,CGV Hạ Long,"Bãi Cháy, Hạ Long",Hạ Long,(0203) 3888 444,6,"{Premium,""Dolby Atmos""}","9:00 - 23:00",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+34,CGV Vincom Hạ Long,"Trung Tâm, Hạ Long",Hạ Long,(0203) 3777 333,5,{Premium},"8:30 - 22:30",https://images.unsplash.com/photo-1667858329757-95becd82346e
+35,CGV Thái Nguyên,"Quang Trung, Thái Nguyên",Thái Nguyên,(0208) 3888 222,4,{Premium},"9:00 - 22:30",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+36,CGV Mỹ Tho,"Trung Tâm, Mỹ Tho",Mỹ Tho,(0273) 3888 111,4,"{""Tiêu Chuẩn""}","9:00 - 22:30",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+37,CGV Rạch Giá,"Trung Tâm, Rạch Giá",Rạch Giá,(0297) 3888 000,4,{Premium},"9:00 - 22:30",https://images.unsplash.com/photo-1504050376847-144186a87c66
+38,CGV Cà Mau,"Trung Tâm, Cà Mau",Cà Mau,(0290) 3888 999,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+39,CGV Đồng Hới,"Trung Tâm, Đồng Hới",Đồng Hới,(0232) 3888 888,4,{Premium},"9:00 - 22:30",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+40,CGV Pleiku,"Trung Tâm, Pleiku",Pleiku,(0269) 3888 777,4,{Premium},"9:00 - 22:30",https://images.unsplash.com/photo-1667858329757-95becd82346e
+41,CGV Phan Thiết,"Trần Hưng Đạo, Phan Thiết",Phan Thiết,(0252) 3888 666,5,{Premium},"9:00 - 23:00",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+42,CGV Long Xuyên,"Trung Tâm, Long Xuyên",Long Xuyên,(0296) 3888 555,4,"{""Tiêu Chuẩn""}","9:00 - 22:30",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+43,CGV Tuy Hòa,"Trung Tâm, Tuy Hòa",Tuy Hòa,(0257) 3888 444,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+44,CGV Tam Kỳ,"Trung Tâm, Tam Kỳ",Tam Kỳ,(0235) 3888 333,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1515100235140-6cb3498e8031
+45,CGV Bến Tre,"Trung Tâm, Bến Tre",Bến Tre,(0275) 3888 222,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1485700330317-57a99a571ecb
+46,CGV Vĩnh Long,"Trung Tâm, Vĩnh Long",Vĩnh Long,(0270) 3888 111,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1667858329757-95becd82346e
+47,CGV Sóc Trăng,"Trung Tâm, Sóc Trăng",Sóc Trăng,(0299) 3888 000,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1688678004647-945d5aaf91c1
+48,CGV Kontum,"Trung Tâm, Kontum",Kontum,(0260) 3888 999,2,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1548867688/231911e4ba3c
+49,CGV Cao Lãnh,"Trung Tâm, Cao Lãnh",Cao Lãnh,(0277) 3888 888,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1504050376847-144186a87c66
+50,CGV Trà Vinh,"Trung Tâm, Trà Vinh",Trà Vinh,(0294) 3888 777,3,"{""Tiêu Chuẩn""}","9:00 - 22:00",https://images.unsplash.com/photo-1515100235140-6cb3498e8031

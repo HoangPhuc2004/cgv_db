@@ -1,0 +1,12 @@
+"user_id","username","email","password_hash","created_at","phone","birthday","address","gender"
+1,Hoàng Linh Trang Dũng,hoanglinhtrangdung4fb@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0362009302",2002-12-24,"25 Nguyễn Văn Linh, Phường Thạc Gián, Thanh Khê, Đà Nẵng",Nam
+2,Trần Khánh Lan Bình,trankhanhlanbinhomj@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0781755405",2002-08-10,"78 Lê Duẩn, Phường Hải Châu 1, Hải Châu, Đà Nẵng",Nam
+3,Nguyễn Dũng Hà,nguyendunghatzk@yahoo.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0922646845",2009-10-22,"88 Nguyễn Thái Học, Phường Cầu Ông Lãnh, Quận 1, TP. Hồ Chí Minh",Nam
+4,Hoàng Thảo Trang Anh,hoangthaotranganhzev@yahoo.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0863972937",1990-12-08,"55 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, TP. Hồ Chí Minh",Nữ
+5,Nguyễn Bình,nguyenbinhnin@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0749207809",2000-01-07,"122 Lý Tự Trọng, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh",Nữ
+6,Trần Trang Sơn,trantrangson7rp@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0327575829",2003-02-11,"19 Hoàng Diệu, Phường 9, Quận 4, TP. Hồ Chí Minh",Nam
+7,Phạm Hằng Linh,phamhanglinh3w9@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0385347018",2003-09-27,"245 Đoàn Văn Bơ, Phường 10, Quận 4, TP. Hồ Chí Minh",Nữ
+8,Huỳnh Long,huynhlongedq@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0839432158",2009-01-19,"17 Vĩnh Hội, Phường 4, Quận 4, TP. Hồ Chí Minh",Nữ
+9,Phạm Long,phamlongdmp@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0991853677",2004-05-22,"35 Lê Quang Sung, Phường 9, Quận 6, TP. Hồ Chí Minh",Nam
+10,Hoàng Dũng Anh,hoangdunganhf6l@gmail.com,$2b$10$AypWdEMhJ99Zzr445lwrTexblBOzme0xKUKS7Yzv.In9Hg29iVNoa,2025-10-16 13:18:20.865 +0700,"0749885344",1980-01-01,"255 Phạm Văn Chí, Phường 3, Quận 6, TP. Hồ Chí Minh",Nữ
+11,Linda Cẩm Lan,camlansuc@gmail.com,$2b$10$XbjribBpjkhxrU9H0EF93ehdg1A1VFUSrLommKFE0cwSpirVq6FiW,2025-11-13 14:02:29.546 +0700,"0789457123",1989-12-13,Long Xuyên,female
